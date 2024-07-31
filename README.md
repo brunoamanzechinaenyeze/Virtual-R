@@ -9,6 +9,7 @@
 * _REACT JS_
 * _VITE_
 * _GIT_
+* _TYPESCRIPT_
 
 
 ## Description
