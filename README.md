@@ -22,6 +22,8 @@ _{This application is a REACT JS Landing Page of A Virtual Reality Web Page }_
 * _Navigate to your top directory_
 * _Open this project_
 * _Open Terminal in VS CODE_
+* _cd to the project folder directory_
+* _npm install to install dependencies_
 * _npm run dev to run this application on your web browser_
 
 _{Leave nothing to chance! You want it to be easy for potential users, employers and collaborators to run your app. Do I need to run a server? How should I set up my databases? Is there other code this application depends on? We recommend deleting the project from your desktop, re-cloning the project from GitHub, and writing down all the steps necessary to get the project working again.}_
